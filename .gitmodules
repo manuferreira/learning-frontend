@@ -1,6 +1,3 @@
 [submodule "profile-card-component"]
 	path = profile-card-component
 	url = git@github.com:manuferreira/profile-card-component.git
-[submodule "loruki-website"]
-	path = loruki-website
-	url = git@github.com:manuferreira/loruki-website.git
