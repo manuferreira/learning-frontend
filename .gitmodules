@@ -4,3 +4,6 @@
 [submodule "loruki-website"]
 	path = loruki-website
 	url = git@github.com:manuferreira/loruki-website.git
+[submodule "tribute-page"]
+	path = tribute-page
+	url = git@github.com:manuferreira/tribute-page.git
