@@ -13,3 +13,5 @@ The challenges contained here have the purpose to teach me the following skills:
 - <a href="https://loruki-website-gamma.vercel.app/
 ">Loruki Website</a>
 - <a href="https://profile-card-component-git-main-manuferreira.vercel.app/">Profile card component</a>
+- <a href="https://tribute-page-five-sigma.vercel.app/">Tribute page for Edgar Allan Poe</a>
+
